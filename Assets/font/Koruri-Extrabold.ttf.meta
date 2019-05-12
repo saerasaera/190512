@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: dd93a2958118d46a0b3a2b8b417d93cd
+timeCreated: 1519738193
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Koruri
+  fontNames:
+  - Koruri
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c1da3ced9055e478bb0baba49b91da91, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
